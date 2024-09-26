@@ -131,3 +131,6 @@ dist
 
 # data directory
 /data
+
+# IDE
+.idea
