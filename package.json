@@ -1,0 +1,24 @@
+{
+  "name": "font-face-parser",
+  "version": "1.0.0",
+  "description": "give it any css url and let it download all font-face urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreas-Schoenefeldt/font-face-parser.git"
+  },
+  "author": "Andreas Schönefeldt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andreas-Schoenefeldt/font-face-parser/issues"
+  },
+  "homepage": "https://github.com/Andreas-Schoenefeldt/font-face-parser#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "css": "^3.0.0",
+    "sanitize-filename": "^1.6.3"
+  }
+}
